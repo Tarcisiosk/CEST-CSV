@@ -7,7 +7,8 @@ ITEM;CEST;NCM/SH;DESCRIÇÃO
 50;0100500;39263000;Frisos, decalques, molduras e acabamentos
 60;0100600;40103;Correias de transmissão de borracha vulcanizada, de matérias têxteis, mesmo impregnadas, revestidas ou recobertas, de plástico, ou estratificadas com plástico ou reforçadas com metal ou com outras matérias
 60;0100600;59100000;Correias de transmissão de borracha vulcanizada, de matérias têxteis, mesmo impregnadas, revestidas ou recobertas, de plástico, ou estratificadas com plástico ou reforçadas com metal ou com outras matérias
-70;0100700;401693004823909;Juntas, gaxetas e outros elementos com função semelhante de vedação
+70;0100700;40169300;Juntas, gaxetas e outros elementos com função semelhante de vedação
+70;0100700;4823909;Juntas, gaxetas e outros elementos com função semelhante de vedação
 80;0100800;40161010;Partes de veículos automóveis, tratores e máquinas autopropulsadas
 90;0100900;40169990;Tapetes, revestimentos, mesmo confeccionados, batentes, buchas e coxins
 90;0100900;57050000;Tapetes, revestimentos, mesmo confeccionados, batentes, buchas e coxins
@@ -114,7 +115,8 @@ ITEM;CEST;NCM/SH;DESCRIÇÃO
 850;0108500;94019090;Assentos e partes de assentos
 860;0108600;96138000;Acendedores
 870;0108700;4009;Tubos de borracha vulcanizada não endurecida, mesmo providos de seus acessórios
-880;0108800;45049000 68129910;Juntas de vedação de cortiça natural e de amianto
+880;0108800;45049000;Juntas de vedação de cortiça natural e de amianto
+880;0108800;68129910;Juntas de vedação de cortiça natural e de amianto
 890;0108900;48234000;Papel-diagrama para tacógrafo, em disco
 900;0109000;39191000;Fitas, tiras, adesivos, auto-colantes, de plástico, refletores, mesmo em rolos; placas metálicas com película de plástico refletora, próprias para colocação em carrocerias, para-choques de veículos de carga, motocicletas, ciclomotores, capacetes, bonés de agentes de trânsito e de condutores de veículos, atuando como dispositivos refletivos de segurança rodoviários
 900;0109000;39199000;Fitas, tiras, adesivos, auto-colantes, de plástico, refletores, mesmo em rolos; placas metálicas com película de plástico refletora, próprias para colocação em carrocerias, para-choques de veículos de carga, motocicletas, ciclomotores, capacetes, bonés de agentes de trânsito e de condutores de veículos, atuando como dispositivos refletivos de segurança rodoviários
@@ -166,7 +168,8 @@ ITEM;CEST;NCM/SH;DESCRIÇÃO
 1280;0112800;73229010;Geradores de ar quente a combustível líquido, com capacidade superior ou igual a 1500 kcal/h, mas inferior ou igual a 10400 kcal/h, do tipo dos utilizados em veículos automóveis
 9990;0199900; ;Outras peças, partes e acessórios para veículos automotores não relacionados nos demais itens deste anexo
 1290;0112900; ;Outras peças, partes e acessórios para veículos automotores não relacionados nos demais itens deste anexo
-10;0200100;220522089000;Aperitivos, amargos, bitter e similares
+10;0200100;2205;Aperitivos, amargos, bitter e similares
+10;0200100;22089000;Aperitivos, amargos, bitter e similares
 20;0200200;22089000;Batida e similares
 30;0200300;22089000;Bebida ice
 40;0200400;220720;Cachaça e aguardentes
@@ -255,7 +258,6 @@ ITEM;CEST;NCM/SH;DESCRIÇÃO
 110;0601100;27111910;Gás Liquefeito de Petróleo (GLP)
 120;0601200;27111100;Gás Liquefeito de Gás Natural (GLGN)
 130;0601300;27112100;Gás Natural
- 
 140;0601400;2713;Coque de petróleo e outros resíduos de óleo de petróleo ou de minerais betuminosos
 150;0601500;38260000;Biodiesel e suas misturas, que não contenham ou que contenham menos de 70%, em peso, de óleos de petróleo ou de óleos minerais betuminosos
 160;0601600;3403;Preparações lubrificantes, exceto as contendo, como constituintes de base, 70% ou mais, em peso, de óleos de petróleo ou de minerais betuminosos
@@ -548,7 +550,6 @@ ITEM;CEST;NCM/SH;DESCRIÇÃO
 160;1701600;04012010;Leite “longa vida” (UHT - “Ultra High Temperature”), em recipiente de conteúdo inferior ou igual a 2 litros
 161;1701601;04011010;Leite “longa vida” (UHT - “Ultra High Temperature”), em recipiente de conteúdo superior a 2 litros e inferior ou igual a 5 litros
 161;1701601;04012010;Leite “longa vida” (UHT - “Ultra High Temperature”), em recipiente de conteúdo superior a 2 litros e inferior ou igual a 5 litros
- 
 170;1701700;04014010;Leite em recipiente de conteúdo inferior ou igual a 1 litro
 170;1701700;04015010;Leite em recipiente de conteúdo inferior ou igual a 1 litro
 171;1701701;04014010;Leite em recipiente de conteúdo superior a 1 litro e inferior ou igual a 5 litros
@@ -590,7 +591,6 @@ ITEM;CEST;NCM/SH;DESCRIÇÃO
 260;1702600;15171000;Margarina em recipiente de conteúdo inferior ou igual a 500 g, exceto as embalagens individuais de conteúdo inferior ou igual a 10 g
 270;1702700;15171000;Margarina e creme vegetal, em recipiente de conteúdo superior a 500 g e inferior ou igual a 1 kg, exceto as embalagens individuais de conteúdo inferior ou igual a   10 g
 270;1702700;15171000;Margarina, em recipiente de conteúdo superior a 500 g e inferior a 1 kg, creme vegetal em recipiente de conteúdo inferior a 1 kg, exceto as embalagens individuais de conteúdo inferior ou igual a 10 g
- 
 271;1702701;15171000;Margarina e creme vegetal, em recipiente de conteúdo superior a de 1 kg
 271;1702701;15171000;Margarina e creme vegetal, em recipiente de conteúdo de 1 kg
 272;1702702;151790;Outras margarinas e cremes vegetais em recipiente de conteúdo inferior a 1 kg, exceto as embalagens individuais de conteúdo inferior ou igual a 10 g
@@ -721,7 +721,6 @@ ITEM;CEST;NCM/SH;DESCRIÇÃO
 870;1708700;0209;Carnes e demais produtos comestíveis frescos, resfriados, congelados, salgados, em salmoura, simplesmente temperados, secos ou defumados, resultantes do abate de aves
 870;1708700;02109900;Carnes e demais produtos comestíveis frescos, resfriados, congelados, salgados, em salmoura, simplesmente temperados, secos ou defumados, resultantes do abate de aves
 870;1708700;1501;Carnes e demais produtos comestíveis frescos, resfriados, congelados, salgados, em salmoura, simplesmente temperados, secos ou defumados, resultantes do abate de aves
- 
 870;1708700;0203;Carnes e demais produtos comestíveis frescos, resfriados, congelados, salgados, em salmoura, simplesmente temperados, secos ou defumados, resultantes do abate de aves e de suínos
 870;1708700;0206;Carnes e demais produtos comestíveis frescos, resfriados, congelados, salgados, em salmoura, simplesmente temperados, secos ou defumados, resultantes do abate de aves e de suínos
 870;1708700;0207;Carnes e demais produtos comestíveis frescos, resfriados, congelados, salgados, em salmoura, simplesmente temperados, secos ou defumados, resultantes do abate de aves e de suínos
@@ -896,8 +895,9 @@ ITEM;CEST;NCM/SH;DESCRIÇÃO
 370;2003700;34013000;Produtos e preparações orgânicos tensoativos para lavagem da pele, na forma de líquido ou de creme, acondicionados para venda a retalho, mesmo contendo sabão
 380;2003800;40149010;Bolsa para gelo ou para água quente
 390;2003900;40149090;Chupetas e bicos para mamadeiras e para chupetas, de borracha
-400;2004000;39249000 39269040
-39269090;Chupetas e bicos para mamadeiras e para chupetas; de silicone
+400;2004000;39249000;Chupetas e bicos para mamadeiras e para chupetas; de silicone
+400;2004000;39269040;Chupetas e bicos para mamadeiras e para chupetas; de silicone
+400;2004000;39269090;Chupetas e bicos para mamadeiras e para chupetas; de silicone
 410;2004100;42021;Malas e maletas de toucador
 420;2004200;48181000;Papel higiênico - folha simples
 430;2004300;48181000;Papel higiênico - folha dupla e tripla
@@ -942,7 +942,6 @@ ITEM;CEST;NCM/SH;DESCRIÇÃO
 100;2101000;84189900;Partes dos refrigeradores, congeladores, mini adegas e similares, máquinas para produção de gelo e bebedouros descritos nos CEST 2100200, 2100300, 2100400, 2100500, 2100600, 2100700, 2100800, 2100900 e 2101300
 100;2101000;84189900;Partes dos refrigeradores, congeladores, mini adegas e similares, máquinas para produção de gelo e bebedouros descritos nos itens 20, 30, 40, 50, 60, 70, 80, 90 e 130
 110;2101100;842112;Secadoras de roupa de uso doméstico
- 
 120;2101200;84211990;Outras secadoras de roupas e centrífugas de uso doméstico
 130;2101300;84186931;Bebedouros refrigerados para água
 140;2101400;84219;Partes das secadoras de roupas e centrífugas de uso doméstico e dos aparelhos para filtrar ou depurar água, descritos nos CEST 2101100, 2101200 e 2109800
@@ -1034,7 +1033,8 @@ ITEM;CEST;NCM/SH;DESCRIÇÃO
 840;2108400;85176262;Aparelhos emissores com receptor incorporado de sistema troncalizado ("trunking"), de tecnologia celular
 850;2108500;8517629;Outros aparelhos de recepção, conversão e transmissão ou regeneração de voz, imagens ou outros dados, incluindo os aparelhos de comutação e roteamento
 860;2108600;85177021;Antenas próprias para telefones celulares portáteis, exceto as telescópicas
-870;2108700;821490 8510;Aparelhos ou máquinas de barbear, máquinas de cortar o cabelo ou de tosquiar e aparelhos de depilar, e suas partes
+870;2108700;821490;Aparelhos ou máquinas de barbear, máquinas de cortar o cabelo ou de tosquiar e aparelhos de depilar, e suas partes
+870;2108700;8510;Aparelhos ou máquinas de barbear, máquinas de cortar o cabelo ou de tosquiar e aparelhos de depilar, e suas partes
 880;2108800;84145;Ventiladores, exceto os de uso agrícola
 890;2108900;84145990;Ventiladores de uso agrícola
 900;2109000;84146000;Coifas com dimensão horizontal máxima não superior a 120 cm
@@ -1068,13 +1068,11 @@ ITEM;CEST;NCM/SH;DESCRIÇÃO
 1130;2111300;8531;Aparelhos elétricos de sinalização acústica ou visual (por exemplo, campainhas, sirenes, quadros indicadores, aparelhos de alarme para proteção contra roubo ou incêndio); exceto os de uso automotivo e os classificados nas posições 853110 e 85318000
 1140;2111400;853110;Aparelhos elétricos de alarme, para proteção contra roubo ou incêndio e aparelhos semelhantes, exceto os de uso automotivo
 1150;2111500;85318000;Outros aparelhos de sinalização acústica ou visual, exceto os de uso automotivo
-1160;2111600;853400;Circuitos impressos, exceto os de uso automotivo
- 
+1160;2111600;853400;Circuitos impressos, exceto os de uso automotivo 
 1170;2111700;85414011;Diodos emissores de luz (LED), exceto diodos "laser"
 1170;2111700;85414021;Diodos emissores de luz (LED), exceto diodos "laser"
 1170;2111700;85414022;Diodos emissores de luz (LED), exceto diodos "laser"
-1180;2111800;85437092;Eletrificadores de cercas eletrônicos
- 
+1180;2111800;85437092;Eletrificadores de cercas eletrônicos 
 1190;2111900;90303;Aparelhos e instrumentos para medida ou controle da tensão, intensidade, resistência ou da potência, sem dispositivo registrador; exceto os de uso automotivo
 1200;2112000;903089;Analisadores lógicos de circuitos digitais, de espectro de frequência, frequencímetros, fasímetros, e outros instrumentos e aparelhos de controle de grandezas elétricas e detecção
 1210;2112100;910700;Interruptores horários e outros aparelhos que permitam acionar um mecanismo em tempo determinado, munidos de maquinismo de aparelhos de relojoaria ou de motor síncrono
@@ -1101,8 +1099,7 @@ ITEM;CEST;NCM/SH;DESCRIÇÃO
 30;2400300;3204;Corantes para aplicação em bases, tintas e vernizes
 30;2400300;32050000;Corantes para aplicação em bases, tintas e vernizes
 30;2400300;3206;Corantes para aplicação em bases, tintas e vernizes
-30;2400300;3212;Corantes para aplicação em bases, tintas e vernizes
- 
+30;2400300;3212;Corantes para aplicação em bases, tintas e vernizes 
 10;2500100;87021000;Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com motor de pistão, de ignição por compressão (diesel ou semidiesel), com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³, mas inferior a 9 m³
 20;2500200;87029090;Outros veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³, mas inferior a 9 m³
 30;2500300;87032100;Automóveis com motor explosão, de cilindrada não superior a 1000 cm³
