@@ -217,7 +217,8 @@
 1100;1711000;22021000;Refrescos e outras bebidas prontas para beber à base de chá e mate
 1110;1711100;22021000;Refrescos e outras bebidas não alcoólicas, exceto os refrigerantes e as demais bebidas nos CEST 0300700 e 1711000
 1120;171120;22029000;Néctares de frutas e outras bebidas não alcoólicas prontas para beber, exceto isotônicos e energéticos
-1130;1711300;21012022029000;Bebidas prontas à base de mate ou chá
+1130;1711300;210120;Bebidas prontas à base de mate ou chá
+1130;1711300;22029000;Bebidas prontas à base de mate ou chá
 1140;1711400;22029000;Bebidas prontas à base de café
 1150;1711500;22029000;Bebidas alimentares prontas à base de soja, leite ou cacau, inclusive os produtos denominados bebidas lácteas
 51;1900501;42021;Baús, malas e maletas para viagem
